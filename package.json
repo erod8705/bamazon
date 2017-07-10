@@ -1,0 +1,18 @@
+{
+  "name": "bamazonproject",
+  "version": "1.0.0",
+  "description": "Bamazon",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "bamazon"
+  ],
+  "author": "Erica R.",
+  "license": "MIT ",
+  "dependencies": {
+    "inquirer": "^3.1.1",
+    "mysql": "^2.13.0"
+  }
+}
